@@ -1,0 +1,8 @@
+prefix=/home/lhn/ork_ws/devel
+
+Name: ecto_ros
+Description: Description of ecto_ros
+Version: 0.4.8
+Cflags: -I/home/lhn/ork_ws/src/ecto_ros/include
+Libs: -L/home/lhn/ork_ws/devel/lib 
+Requires: 

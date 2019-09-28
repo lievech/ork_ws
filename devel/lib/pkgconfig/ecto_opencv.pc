@@ -1,0 +1,8 @@
+prefix=/home/lhn/ork_ws/devel
+
+Name: ecto_opencv
+Description: Description of ecto_opencv
+Version: 0.7.2
+Cflags: 
+Libs: -L/home/lhn/ork_ws/devel/lib 
+Requires: ecto opencv_candidate

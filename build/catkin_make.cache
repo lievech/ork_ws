@@ -1,0 +1,2 @@
+ecto:ecto_image_pipeline:ecto_opencv:ecto_openni:ecto_pcl:ecto_ros:opencv_candidate:ork_capture:ork_core:ork_linemod:ork_reconstruction:ork_renderer:ork_ros:ork_ros_visualization:ork_tabletop:ork_tod:ork_transparent_objects
+-DCATKIN_DEVEL_PREFIX=/home/lhn/ork_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lhn/ork_ws/install -G Unix Makefiles
